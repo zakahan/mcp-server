@@ -1,4 +1,4 @@
-from src.base.base_service import BaseService
+from mcp_server_vod.base.base_service import BaseService
 from .config import api_info
 
 
