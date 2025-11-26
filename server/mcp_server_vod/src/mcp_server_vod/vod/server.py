@@ -1,6 +1,6 @@
 # coding:utf-8
 
-from src.vod.mcp_server import create_mcp_server
+from mcp_server_vod.vod.mcp_server import create_mcp_server
 
 from dotenv import load_dotenv
 import asyncio

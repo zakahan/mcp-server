@@ -1,4 +1,4 @@
-from src.vod.api.api import VodAPI
+from mcp_server_vod.vod.api.api import VodAPI
 from mcp.server.fastmcp import FastMCP
 import json
 import os
